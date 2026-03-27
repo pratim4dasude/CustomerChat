@@ -1,6 +1,7 @@
-# CustomerChat
 
 <div align="center">
+# CustomerChat
+
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
