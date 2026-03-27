@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![CustomerChat](https://img.shields.io/badge/CustomerChat-IT%20Support%20Chatbot-4F46E5?style=for-the-badge&logo=bot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-00B5B9?style=flat-square&logo=pinecone&logoColor=white)
