@@ -1,6 +1,7 @@
+<h1 align="center">CustomerChat</h1>
 
 <div align="center">
-# CustomerChat
+
 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
