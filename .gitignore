@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Node
+node_modules/
+.next/
+out/
+.npm
+.yarn
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+customerchat.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment files (keep sample)
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+*.pyc
+*.pyo
