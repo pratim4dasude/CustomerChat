@@ -2,8 +2,6 @@
 
 <div align="center">
 
-
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-00B5B9?style=flat-square&logo=pinecone&logoColor=white)
@@ -12,8 +10,6 @@
 **Contextual IT Support Chatbot powered by RAG, Pinecone, and ChatGPT**
 
 *Get instant, accurate IT support answers from your knowledge base*
-
-[Features](#features) • [Architecture](#architecture) • [Quick Start](#quick-start) • [API Reference](#api-reference) • [Tech Stack](#tech-stack)
 
 </div>
 
