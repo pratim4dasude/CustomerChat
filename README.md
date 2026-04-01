@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-00B5B9?style=flat-square&logo=pinecone&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-00B5B9?style=flat&logo=pinecone&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 **Contextual IT Support Chatbot powered by RAG, Pinecone, and ChatGPT**
 
